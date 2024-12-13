@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "id": "6453",
+      "title": "11",
+      "summary": "11",
+      "date": "2024-11-26",
+      "publisher": "11"
+    },
+    {
+      "id": "e3a4",
+      "title": "Test",
+      "summary": "Test 2",
+      "date": "2024-12-10",
+      "publisher": "222"
+    },
+    {
+      "id": "8dae",
+      "title": "test",
+      "summary": "test",
+      "date": "2024-12-11",
+      "publisher": "112"
+    },
+    {
+      "id": "06da",
+      "title": "Test 2",
+      "summary": "1124",
+      "date": "2024-12-11",
+      "publisher": "221"
+    }
+  ],
+  "total_articles": 4
