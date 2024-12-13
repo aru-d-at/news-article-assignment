@@ -1,3 +1,15 @@
+# How to Run
+Start the app
+```
+npm run dev
+```
+
+Start the mock server
+```
+npm run start-server
+```
+
+
 # News-Article
 Take-home assignment for front-end developer.
 
